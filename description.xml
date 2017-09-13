@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+  <title-info>
+    <genre>sf_heroic</genre>
+    <author>
+      <first-name>Роберт</first-name>
+      <middle-name>Ирвин</middle-name>
+      <last-name>Говард</last-name>
+    </author>
+    <book-title>Дочь Эрлик-хана</book-title>
+    <annotation>
+      <p>Все смешалось на Востоке. Два англичанина ищут сокровища, дочь индийского раджи в плену у дьяволопоклонников… Только Аль-Бораку под силу спасти девушку, сразиться с воинами, нанятыми европейцами, и остаться при этом в живых.</p>
+    </annotation>
+    <date>2009</date>
+    <coverpage>
+      <image l:href="#cover_rus.jpg"/>
+    </coverpage>
+    <lang>ru</lang>
+    <src-lang>en</src-lang>
+    <translator>
+      <first-name>Татьяна</first-name>
+      <middle-name>Борисовна</middle-name>
+      <last-name>Серебряная</last-name>
+    </translator>
+    <sequence name="Аль-Борак" number="1"/>
+  </title-info>
+  <src-title-info>
+    <genre>sf_heroic</genre>
+    <author>
+      <first-name>Robert</first-name>
+      <last-name>Howard</last-name>
+    </author>
+    <book-title>The Daughter of Erlik Khan</book-title>
+    <date>1934</date>
+    <lang>en</lang>
+    <sequence name="El Borak" number="1"/>
+  </src-title-info>
+  <document-info>
+    <author>
+      <first-name>Alex1979</first-name>
+      <last-name/>
+    </author>
+    <program-used>doc2fb, FB Editor v2.3</program-used>
+    <date value="2012-06-21">2012-06-21</date>
+    <src-url>http://oldmaglib.com</src-url>
+    <src-ocr>Scan &amp; OCR - XtraVert. ReadCheck - Alex1979</src-ocr>
+    <id>980AF186-7855-4DB2-94DF-B27E6D0570DC</id>
+    <version>1.0</version>
+  </document-info>
+  <publish-info>
+    <book-name>Роберт Говард "Дочь Эрлик-хана"</book-name>
+    <publisher>Терра-Книжный клуб, Северо-Запад</publisher>
+    <city>Москва, СПб.</city>
+    <year>2009</year>
+    <isbn>978-5-275-01997-1</isbn>
+    <sequence name="Малая библиотека приключений"/>
+  </publish-info>
+</description>
+</FictionBook>

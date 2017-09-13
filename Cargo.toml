@@ -1,0 +1,7 @@
+[package]
+name = "xml-demo"
+version = "0.1.0"
+authors = ["seb@kickseed <seb@kickseed>"]
+
+[dependencies]
+    xml-rs = "0.6"
