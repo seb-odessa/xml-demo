@@ -25,8 +25,7 @@ fn main() {
             }
 
             Ok(XmlEvent::Characters(msg)) => {
-//                println!("{}", msg);
-                println!("{}+{}", indent(depth), msg);
+                println!("{}{}", indent(depth), msg);
 
             }
 
